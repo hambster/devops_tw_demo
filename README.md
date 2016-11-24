@@ -6,7 +6,7 @@ repo for demo in DevOps Taiwan Meetup.
 
 ## Slides/Documents
 
-* `Demo/demo.md`: rough document for demo.
+* `Demo/demo.md`: rough document for [demo](Demo/demo.md)
 
 ## Data of Docker for Demo
 
